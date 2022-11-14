@@ -1,0 +1,17 @@
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\bin\Debug\net6.0-windows\LoopsAndTabsStart.exe
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\bin\Debug\net6.0-windows\LoopsAndTabsStart.deps.json
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\bin\Debug\net6.0-windows\LoopsAndTabsStart.runtimeconfig.json
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\bin\Debug\net6.0-windows\LoopsAndTabsStart.dll
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\bin\Debug\net6.0-windows\LoopsAndTabsStart.pdb
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\LoopsAndTabsStart.csproj.AssemblyReference.cache
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\LoopsAndTabsStart.Form1.resources
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\LoopsAndTabsStart.csproj.GenerateResource.cache
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\LoopsAndTabsStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\LoopsAndTabsStart.AssemblyInfoInputs.cache
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\LoopsAndTabsStart.AssemblyInfo.cs
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\LoopsAndTabsStart.csproj.CoreCompileInputs.cache
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\LoopsAndTabsStart.dll
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\refint\LoopsAndTabsStart.dll
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\LoopsAndTabsStart.pdb
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\LoopsAndTabsStart.genruntimeconfig.cache
+C:\Users\godsk.XVTH\Downloads\itec140-a07-r1-daud119-master\LoopsAndTabsStart\obj\Debug\net6.0-windows\ref\LoopsAndTabsStart.dll
